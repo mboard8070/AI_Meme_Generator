@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="92123a27-8520-4feb-80c7-d10cb93d4539" name="Changes" comment="" />
+    <list default="true" id="92123a27-8520-4feb-80c7-d10cb93d4539" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_ig_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_ig_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/flux_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/flux_local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/instagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/instagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/mochi_film.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/mochi_film.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/multi_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/multi_post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/news_fetch.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/news_fetch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/promptgen.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/promptgen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tiktok.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tiktok.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/twitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/twitter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/flux_meme_workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/flux_meme_workflow.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="364dVGNL0yDLx0XytmUqwKvfOm4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,9 +48,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.app.executor": "Run",
+    "Python.flux_local.executor": "Run",
+    "Python.generate_ig_session.executor": "Run",
+    "Python.instagram.executor": "Run",
+    "Python.mochi_film.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mboar/PycharmProjects/AI_Meme_Generator"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mboar\PycharmProjects\AI_Meme_Generator" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -38,5 +81,16 @@
       <updated>1764269799482</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/instagram.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
